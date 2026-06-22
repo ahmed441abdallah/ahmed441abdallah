@@ -8,9 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedabdallahibrahim/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdaalh027@gmail.com
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedabdallahibrahim/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdaalh027@gmail.com)
 
 </div>
 
@@ -56,8 +55,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Masion](https://github.com/YOUR_USERNAME/masion)** | A premium e-commerce platform featuring secure **Stripe** payment integration and an **AI-driven chatbot** for customer support. | React, Node.js, MongoDB, Stripe |
-| **[Doctor Appointment System](https://github.com/YOUR_USERNAME/doctor-appointment-system)** | A complete booking platform with specialized doctor search/filtering and automated **cloud-based messaging** notifications for appointments. | MERN, Firebase Cloud Messaging |
+| **[Masion](https://github.com/ahmed441abdallah/Masion)** | A premium, full-stack e-commerce platform with a minimalist, high-end fashion brand aesthetic — featuring secure **Stripe** payment integration and an **AI-driven chatbot** for customer support. | React, Node.js, MongoDB, Stripe |
+| **[Doctor Appointment System](https://github.com/ahmed441abdallah/Doctor-Appointment-Booking)** | A complete booking platform with specialized doctor search/filtering and automated **cloud-based messaging** notifications for appointments. | MERN, Firebase Cloud Messaging |
+| **[MediBook API](https://github.com/ahmed441abdallah/MediBook_api)** | The robust backend system powering the MediBook telemedicine platform — handling auth, scheduling, and data for real-time patient-doctor interactions. | Node.js, Express, MongoDB |
 
 <br/>
 
@@ -65,12 +65,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=9CA3AF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=4F46E5&text_color=9CA3AF" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed441abdallah&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=9CA3AF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed441abdallah&layout=compact&theme=transparent&hide_border=true&title_color=4F46E5&text_color=9CA3AF" width="38%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed441abdallah&theme=transparent&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" width="48%" />
 
 </div>
 
@@ -80,8 +80,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedabdallahibrahim/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedabdaalh027@gmail.com)
 
 </div>
